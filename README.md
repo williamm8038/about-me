@@ -5,6 +5,7 @@ _williamm8038@hstat.org_
 1.Videogames
 2.Tv
 3.Eating
+4. Doing absolutely nothingggggggg
 
 ##Schedule
 1.Algebra 2
