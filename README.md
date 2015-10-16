@@ -5,7 +5,7 @@ _williamm8038@hstat.org_
 1.Videogames
 2.Tv
 3.Eating
-
+  
 ##Schedule
 1.Algebra 2
 2.Gym
@@ -14,4 +14,4 @@ _williamm8038@hstat.org_
 5. Lunch
 6. English
 7. Physics
-8. Software Engineering
+8. Software Engineering  
